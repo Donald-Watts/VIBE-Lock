@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 [![Stable Roadmap](https://img.shields.io/badge/roadmap-Q3_2025-orange.svg)](#roadmap)
 
-Welcome to **VIBE‑Lock**, an open‑source implementation of the **VIBE Protocol** (see [`VIBE‑PROTOCOL.md`](./VIBE-PROTOCOL.md)) that defends your creative signal against silent AI extraction.  Think of VIBE‑Lock as a *developer shield*—CLI tools, libraries, and workflow recipes that watermark, timestamp, and obfuscate your code, text, and designs so they stay **yours**.
+Welcome to **VIBE‑Lock**, an open‑source implementation of the **VIBE Protocol** (see [`VIBE‑PROTOCOL.md`](./VIBE-PROTOCOL.md)) that defends your creative signal against silent AI extraction.  Think of VIBE‑Lock as a *developer shield*—CLI tools, libraries, and workflow recipes that watermark, timestamp, and obfuscate your code, text, and designs so they stay **yours**. This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. We're building it in the open with the community and welcome:
 
 
 
