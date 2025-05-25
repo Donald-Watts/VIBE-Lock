@@ -67,9 +67,9 @@ Legend: ✅  Stable 🟡 Beta 🔜 Planned
 | Version | Milestone                                          | Target Date |
 | ------- | -------------------------------------------------- | ----------- |
 | **0.1** | CLI core (`vibe‑stamp`, `vibe‑scan`, ledger hooks) | **Q3 2025** |
-| **0.2** | Chain‑agnostic TPO & on‑prem SQL backend           | Q4 2025     |
-| **0.5** | Community red‑team audit & spec hardening          | Q1 2026     |
-| **1.0** | Multi‑lang SDK, VS Code/Cursor plug‑ins            | 2026        |
+| **0.2** | Chain‑agnostic TPO & on‑prem SQL backend           | Q1 2026     |
+| **0.5** | Community red‑team audit & spec hardening          | Q4 2026     |
+| **1.0** | Multi‑lang SDK, VS Code/Cursor plug‑ins            | Q12027        |
 
 
 
