@@ -32,7 +32,7 @@ For the philosophical underpinnings, threat model, and detailed component breakd
 
 
 # 1 Install the CLI
-pip install vibe‑lock
+sed -i 's/pip install vibe-lock/python -m pip install -e ./g' README.md
 
 # 2 Initialize a project ledger
 vibe‑init  # creates .vibe/ with default config & TPO ledger
