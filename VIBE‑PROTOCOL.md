@@ -105,9 +105,9 @@ Air‑gap crown‑jewel logic: no cloud copilot, no telemetry.  Samsung’s post
 | Version | Milestone                                           | Target Date |
 | ------- | --------------------------------------------------- | ----------- |
 | **0.1** | `vibe_guard.py` CLI — prompt auditing & drift score | Q3 2025     |
-| **0.2** | Blockchain‑agnostic TPO plug‑in                     | Q4 2025     |
-| **0.5** | Community red‑team + spec audit                     | Q1 2026     |
-| **1.0** | Stable release, multi‑lang SDK                      | 2026        |
+| **0.2** | Blockchain‑agnostic TPO plug‑in                     | Q1 2026     |
+| **0.5** | Community red‑team + spec audit                     | Q4 2026     |
+| **1.0** | Stable release, multi‑lang SDK                      | Q1 2027     |
 
 
 
