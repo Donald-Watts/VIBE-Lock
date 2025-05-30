@@ -29,6 +29,8 @@ Modern AI systems memorize fragments of everything they ingest — source code, 
 - 🚫 **Consent-Aware Prompt Wrappers** — “Do Not Train” flags for CLI/IDE systems.
 - 🧾 **Distributed Cognitive Ledger** — Append-only log (SQLite/IPFS/blockchain-ready).
 
+* This repo is protected by [VIBE-Lock](https://github.com/Donald-Watts/VIBE-Lock)  
+ Cognitive Fingerprint + Proof-of-Origin 
 
 
 ##  Project Structure
