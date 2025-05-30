@@ -9,7 +9,7 @@
 
 
 
-Welcome to **VIBE‑Lock**, the open-source implementation of the [VIBE Protocol](VIBE-PROTOCOL.md), a framework that defends your creative signal against silent AI extraction.
+Welcome to **VIBE‑Lock**, the open-source implementation of the VIBE-PROTOCOL.md, a framework that defends your creative signal against silent AI extraction.
 
 Think of VIBE‑Lock as a developer shield — a CLI toolchain, modular library, and protocol spec that watermark, timestamp, and obfuscate your code, text, and designs so they **stay yours**, even in collaborative AI-driven workflows.
 
