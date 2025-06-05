@@ -1,6 +1,6 @@
 # VIBE‑Lock
 
-**Vast Intelligence‑Based Extraction — Containment & Cognitive Sovereignty Toolkit**
+**Vector Intelligence‑Based Extraction — Containment & Cognitive Sovereignty Toolkit**
 
 
 
