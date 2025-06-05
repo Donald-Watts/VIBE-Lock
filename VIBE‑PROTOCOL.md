@@ -1,6 +1,6 @@
 # VIBE‑PROTOCOL.md
 
-**Vast Intelligence‑Based Extraction**
+**Vector Intelligence‑Based Extraction**
 **Containment, Sovereignty, and Cognitive Ethics Framework**
 
 > *Updated 25 May 2025 – “Validated” Edition*
